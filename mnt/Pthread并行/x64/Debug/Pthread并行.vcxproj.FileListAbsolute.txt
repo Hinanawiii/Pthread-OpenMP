@@ -1,0 +1,1 @@
+D:\trail\Pthread并行\x64\Debug\Pthread并行.exe
